@@ -1,5 +1,5 @@
 Developed a dynamic website for the local Model United Nations (MUN) conference to enhance event engagement and communication.
-
+https://bacau-mun-website.vercel.app
 Features:
 
 Parallax Scrolling Effect: Collaborated with a graphic designer to implement an engaging parallax effect using HTML, CSS, and JavaScript.
